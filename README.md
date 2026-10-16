@@ -6,7 +6,7 @@ Zdrojový kód je v koreni repozitára (`game/`, `ai/`), táto zložka obsahuje 
 | priečinok | súbory |
 |---|---|
 | [01_Poziadavky](01_Poziadavky) | [zadanie.md](01_Poziadavky/zadanie.md), `funkcionalne-poziadavky.xlsx`, `nefunkcionalne-poziadavky.xlsx`, `role-systemu.xlsx` |
-| [02_Analyza](02_Analyza) | `use-case.docx` (13 prípadov použitia + matica sledovateľnosti), `use-case-diagram.png` |
+| [02_Analyza](02_Analyza) | `use-case.docx` (21 prípadov použitia, úrovne AI a bossovia, mechanizmus učenia AI, matica sledovateľnosti), `use-case-diagram.png` |
 | [03_Navrh](03_Navrh) | `erd-diagram.png` (dátový model obsahu), `db-schema.png` (schéma súborov JSON), `navrh-rozhranii.pdf` |
 | [04_Implementacia](04_Implementacia) | [README.md](04_Implementacia/README.md) – architektúra a štruktúra kódu |
 | [05_Testovanie](05_Testovanie) | `testovacie-scenare.xlsx`, `zistene-chyby.xlsx` |
